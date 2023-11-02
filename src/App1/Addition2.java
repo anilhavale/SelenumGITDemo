@@ -13,6 +13,10 @@ public class Addition2
 		int res=a+b;
 		
 		System.out.println("The Summation of Numbers is : "+ res);
+		
+		int result=res*2;
+		
+		System.out.println("The result is : "+ result);
 	}
 	
 
